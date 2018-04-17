@@ -26,14 +26,19 @@ List the neighboring related words in WordNnet for a word
 Determine the similarity of a pair or words:
 ```
 >>> import neighboring_words as nw
+>>
 >>> nw.COSINE("car","driver")
 0.1046336064242884
+>>>
 >>> nw.COSINE("house","driver")
 0.0289390563534866
+>>>
 >>> nw.COSINE("car","train")
 0.1655928164071086
+>>>
 >>> nw.COSINE("domain","knowledge")
 0.11983723142404717
+>>>
 >>> nw.COSINE("domain","pain")
 0.022627445961118885
 ```
