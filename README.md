@@ -1,7 +1,7 @@
 ## Neighboring words in WordNet
 Tool to find semantically related neighboring words in WordNet.
 
-#Examples
+# Examples
 List the neighboring related words in WordNnet for a word
 
 ```
@@ -11,7 +11,7 @@ List the neighboring related words in WordNnet for a word
 >>> print(sorted(nw.neighbors("wealthy")))
 ['abundant', 'affluence', 'affluent', 'flush', 'loaded', 'material', 'money', 'moneyed', 'poor', 'possessing', 'possessions', 'rich', 'richness', 'supply', 'value', 'wealth', 'wealthiness', 'wealthy']
 ```
-#Lexical Similarity
+# Lexical Similarity
 
 Determine the similarity of a pair or words:
 ```
