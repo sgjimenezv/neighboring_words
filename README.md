@@ -1,7 +1,7 @@
 # Neighboring words in WordNet
 Tool to find semantically related neighboring words in WordNet.
 
-![alt text](https://github.com/sgjimenezv/neighboring_words/blob/master/neighbors.pdf)
+![alt text](neighbors.png)
 
 ## Examples
 List the neighboring related words in WordNnet for a word
